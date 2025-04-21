@@ -1,9 +1,11 @@
 ## Olá eu sou o João Pedro
 
-- 🌱 Atualmente estou estudando Programação na ETEC Joaquim Ferreira do Amaral, 3°Ano do ensino médio.
-- 👯 Estou procurando estagio como Programador Web Full-Stack.
-- 📫 Linkedin: <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-amorin/" target="_blank">João Pedro Amorin</a>.
-- 📫 E-MAIL: joaopedro512a@gmail.com
+- 💻 Atualmente sou estudante de Programação na ETEC Joaquim Ferreira do Amaral — 3º ano do Ensino Médio.
+- 🚀 Estou em busca de uma oportunidade de estágio como Desenvolvedor Web Full-Stack.
+- 👔 LinkedIn: <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-amorin/" target="_blank">João Pedro Amorin</a>
+- 📧 E-mail: joaopedro512a@gmail.com
+
+<br>
 
 <div>
   <a href="https://beacons.ai/r">
@@ -11,6 +13,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro2dev&layout=compact&langs_count=16&theme=dracula" />
   </a>
 </div>
+
+<br>
 
 <div style="display: inline-block"><br>
   <img align="center" alt="João-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
