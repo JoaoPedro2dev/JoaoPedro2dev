@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/joao-pedro-amorin" target="_blank">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-amorin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
